@@ -1,0 +1,39 @@
+Hola Amigo !
+
+Hey This is me the Author yeah ;)
+A bit funny not too much though !
+
+Let's Plan the method to become a Data Analyst ;) Lol because its fun . I can think of a data like the number of females in cities and analyse which 
+city to visit to have a higher chances of matrimony or more chances of getting a good friend . This is my driving interest to learn Data Analytics .Lol!
+
+Okay so in order too properly learn python first 
+
+Core Python Concepts to learn for data analytics :
+1. Jupyter Notebooks 
+2. Basic Syntax of Python and some cool concepts like list , dictionary , functions 
+3. Numpy Arrays { Creating , indexing ,transposition , shape Manipulation , Conditional Selection , Array Operation Broadcasting }
+4. Pandas {Do everything with a csv }
+5. Matplotlib and Seaborn 
+
+The above are the really crucial things to know ! (Secret Sauce : They should be like memorized in the brain like songs)
+
+Thats it ! 
+Just Kidding !
+
+Need to know some Machine Learing Libraries too ! Some what you need to know 
+1. Sci-kit learn
+2. TensorFlow 
+3. Keras 
+
+Yup That's it is enough to know enough to be somewhat a decent analyst 
+
+Now this  is all your training ; as per ML norms you must now do the testing that is :
+1. Do projects on EDA
+2. Do atleast 10 Different EDA and analysis project 
+
+Still that was all the training , now you must validate it . So how to ?
+step 1 : Pickup real world Dataset 
+Step 2 : Automate the Dataset to Clean and Pre-process automatically 
+Step 3 : Polish the dataset to give useful insights
+Step 4 : Your Analysis must answer any question based on Statistics and other ways 
+

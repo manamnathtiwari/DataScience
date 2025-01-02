@@ -1,0 +1,30 @@
+Hey it's great if you want to learn ml from scratch in order to understand how the algorithm works. I am adding a few of these resources you can choose based on your preferred teaching.
+
+https://github.com/eriklindernoren/ML-From-Scratch/tree/master
+
+https://github.com/patrickloeber/MLfromscratch/tree/master/mlfromscratch
+
+https://www.kaggle.com/code/milan400/machine-learning-algorithms-from-scratch
+
+https://github.com/AssemblyAI-Community/Machine-Learning-From-Scratch
+
+YT playlist
+
+https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&si=xNh75NFfeBcwWsmS
+ (Their GitHub code is added above. Refer 4.)
+
+https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E&si=ywbv0JxTqdR5aq4d
+
+https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&si=e7kg2jl_5oxyUK63
+
+https://youtube.com/playlist?list=PLfFghEzKVmjtcwDLnlueTPQDCVtq63KMf&si=pA9PLBUYoyzhTsaO
+
+https://youtube.com/@statquest?si=FFYYOA3q15M9JkHm
+ (You can find the playlist of each algorithm where he explains the concept then implements them in python)
+
+Campusx
+
+Andrew ng
+
+I hope it helps you or anyone in the future:)
+
