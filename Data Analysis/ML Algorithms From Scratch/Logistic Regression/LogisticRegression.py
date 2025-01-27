@@ -1,3 +1,5 @@
+import numpy as np
+
 class Logistic_Regression():
 
     # Declaring Learning rate and number of iterations (Hyperparameters)
