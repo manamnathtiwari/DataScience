@@ -56,7 +56,10 @@ streamlit run app
 ![Books list Page](Videos%20and%20Screenshot%20of%20the%20project/books.png)  
 
 ### 📚 Recommendation 
-![Recommendation Page](Videos%20and%20Screenshot%20of%20the%20project/recommend.png)  
+![Recommendation Page](Videos%20and%20Screenshot%20of%20the%20project/recommend.png) 
+
+[![Watch the video](Videos%20and%20Screenshot%20of%20the%20project/home.png)](Videos%20and%20Screenshot%20of%20the%20project/video.mp4)
+
 
 
 ## 📂 Dataset  
