@@ -1,6 +1,3 @@
-Here’s an engaging **README.md** file for your **Book Recommender System** with a mix of professionalism and enthusiasm! 🚀  
-
----
 
 # 📚 Book Recommender System 📖  
 
@@ -50,13 +47,17 @@ streamlit run app
 
 ## 🎨 Screenshots  
 
-**🏠 Home Page**  
-![Home Page](https://github.com/manamnathtiwari/DataScience/blob/main/Recommender%20System/Projects/Book%20Recommender%20System/Videos%20and%20Screenshot%20of%20the%20project/home_page.png)  
+## 🎨 Screenshots  
 
-**📚 Recommendation Page**  
-![Recommendation Page](https://github.com/manamnathtiwari/DataScience/blob/main/Recommender%20System/Projects/Book%20Recommender%20System/Videos%20and%20Screenshot%20of%20the%20project/recommendation_page.png)  
+### 🏠 Home  
+![Home Page](Videos%20and%20Screenshot%20of%20the%20project/home.png)  
 
----
+### 📚 Books List 
+![Books list Page](Videos%20and%20Screenshot%20of%20the%20project/books.png)  
+
+### 📚 Recommendation 
+![Recommendation Page](Videos%20and%20Screenshot%20of%20the%20project/recommend.png)  
+
 
 ## 📂 Dataset  
 We used the **[Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)** from **Kaggle**, containing book titles, ratings, and user reviews.  
