@@ -41,7 +41,6 @@ streamlit run app
 📌 Enter a book title or select from the list.  
 📌 Our AI model **analyzes patterns** in user preferences.  
 📌 Get **personalized book recommendations** instantly!  
-📌 Click on a book to see its **details & author info**.  
 
 ---
 
