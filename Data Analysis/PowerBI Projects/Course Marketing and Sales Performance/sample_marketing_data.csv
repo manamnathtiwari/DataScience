@@ -1,0 +1,501 @@
+BillingMonth,MarketingPlatform,MarketingCampaign,LocationCode,RegisteredCourses,LearningPrograms,SkillLevels,AverageCallTime,PaymentStatus,FeesCollected,SalesGroup,Advisor
+Aug-2024,Google Ads,Limited Offer,LOC-985,Machine Learning,Advanced,Basic,14.11,Paid,203.83,Team C,Daniel Garcia DVM
+Jul-2024,Email Campaign,Cyber Monday,LOC-954,Python Programming,Advanced,Expert,14.43,Pending,1525.56,Team A,Adam Montgomery
+Nov-2024,Facebook,Winter Discount,LOC-709,Python Programming,Advanced,Intermediate,5.43,Paid,183.74,Team A,Karen Matthews
+Mar-2024,Instagram,Black Friday,LOC-751,Data Science,Intermediate,Basic,12.24,Paid,1139.08,Team A,Heather Williams
+May-2024,Google Ads,Back to School,LOC-411,Machine Learning,Intermediate,Expert,10.88,Pending,946.15,Team D,Alexis Coleman
+Jan-2024,YouTube,Spring Sale,LOC-985,Cloud Computing,Beginner,Intermediate,4.02,Failed,1544.39,Team C,Samantha Brown
+Feb-2024,Twitter,Back to School,LOC-433,Python Programming,Advanced,Basic,12.93,Failed,1241.27,Team A,Karen Matthews
+Nov-2024,LinkedIn,Limited Offer,LOC-275,Python Programming,Advanced,Expert,4.5,Failed,1540.6,Team C,Michael Patel
+Nov-2024,Email Campaign,Black Friday,LOC-202,Machine Learning,Beginner,Advanced,7.48,Paid,411.05,Team B,Judith Hartman
+Nov-2024,LinkedIn,Limited Offer,LOC-623,AI Fundamentals,Advanced,Expert,3.41,Failed,1850.66,Team B,Paige Jones
+Oct-2024,Facebook,Back to School,LOC-277,Data Science,Intermediate,Advanced,12.46,Paid,1435.74,Team B,Janet Morrow PhD
+Nov-2024,LinkedIn,Cyber Monday,LOC-963,Cyber Security,Intermediate,Expert,11.12,Failed,1006.86,Team B,Phyllis Hogan
+Dec-2024,LinkedIn,Cyber Monday,LOC-901,Cyber Security,Beginner,Basic,5.43,Paid,1117.58,Team B,Judith Hartman
+Aug-2024,YouTube,Cyber Monday,LOC-405,Machine Learning,Advanced,Advanced,10.37,Paid,1478.27,Team D,Karen Jones
+Nov-2024,Twitter,Spring Sale,LOC-202,Machine Learning,Beginner,Expert,8.49,Pending,1214.97,Team A,April Barrett
+May-2024,Google Ads,Cyber Monday,LOC-128,Cloud Computing,Beginner,Expert,12.91,Failed,1798.21,Team B,Tyrone Taylor
+May-2024,YouTube,Black Friday,LOC-296,Cloud Computing,Beginner,Basic,14.19,Pending,1044.81,Team D,Angela Joseph
+Oct-2024,SEO,Limited Offer,LOC-572,Data Science,Advanced,Expert,7.63,Failed,340.94,Team D,William Parker
+Jan-2024,Instagram,Back to School,LOC-835,Machine Learning,Advanced,Advanced,13.3,Failed,477.48,Team C,Susan Thomas MD
+Feb-2024,Email Campaign,Flash Sale,LOC-709,AI Fundamentals,Beginner,Expert,9.11,Pending,1904.88,Team D,Matthew Myers
+Jul-2024,Google Ads,Spring Sale,LOC-516,AI Fundamentals,Beginner,Expert,13.49,Paid,1991.06,Team B,Susan Davis
+Aug-2024,Google Ads,Winter Discount,LOC-875,Data Science,Advanced,Expert,8.89,Pending,1098.22,Team D,Megan Ramsey
+Oct-2024,YouTube,Flash Sale,LOC-128,Data Science,Advanced,Basic,9.03,Pending,760.38,Team B,Cody Kaiser
+Jun-2024,SEO,Limited Offer,LOC-367,Python Programming,Advanced,Basic,4.47,Paid,1407.02,Team D,Megan Ramsey
+Jul-2024,Twitter,Cyber Monday,LOC-858,AI Fundamentals,Advanced,Expert,13.92,Paid,313.15,Team B,Susan Davis
+Nov-2024,Twitter,Winter Discount,LOC-963,Cyber Security,Beginner,Basic,5.3,Failed,1357.57,Team B,Robert Martinez
+Oct-2024,Instagram,Flash Sale,LOC-367,AI Fundamentals,Intermediate,Expert,8.87,Pending,687.1,Team D,Karen Matthews
+Feb-2024,Facebook,Black Friday,LOC-774,Data Science,Advanced,Basic,10.53,Paid,1755.65,Team C,Briana Prince
+Apr-2024,Twitter,Black Friday,LOC-572,Cyber Security,Beginner,Advanced,6.52,Failed,1154.64,Team A,Michelle Davila
+Apr-2024,Email Campaign,Spring Sale,LOC-985,Python Programming,Intermediate,Advanced,13.95,Failed,661.15,Team C,Jonathon Edwards
+Jul-2024,YouTube,Back to School,LOC-958,AI Fundamentals,Advanced,Expert,9.15,Failed,1198.06,Team D,William Parker
+Nov-2024,Instagram,Flash Sale,LOC-982,Python Programming,Advanced,Advanced,2.82,Paid,183.86,Team D,Shawn Collins
+Apr-2024,Facebook,Limited Offer,LOC-751,Cloud Computing,Beginner,Advanced,8.91,Pending,967.2,Team A,Susan Davis
+Mar-2024,Email Campaign,Cyber Monday,LOC-516,AI Fundamentals,Intermediate,Intermediate,6.6,Failed,1605.06,Team D,Matthew Myers
+Feb-2024,YouTube,Flash Sale,LOC-673,Machine Learning,Intermediate,Expert,2.04,Failed,233.47,Team B,Matthew Myers
+Nov-2024,Facebook,Cyber Monday,LOC-507,Python Programming,Intermediate,Expert,3.35,Pending,256.8,Team D,Phyllis Ruiz
+Nov-2024,SEO,Limited Offer,LOC-889,Machine Learning,Advanced,Advanced,12.59,Pending,1968.7,Team C,Michelle Davila
+Jun-2024,Instagram,Back to School,LOC-712,Machine Learning,Intermediate,Basic,2.26,Paid,1515.95,Team B,Michele Mclaughlin
+May-2024,YouTube,Flash Sale,LOC-536,Cloud Computing,Intermediate,Basic,3.99,Pending,945.75,Team B,Paige Jones
+Nov-2024,Twitter,Limited Offer,LOC-822,Data Science,Intermediate,Advanced,2.74,Pending,1117.62,Team C,Miss Marissa Buchanan
+Apr-2024,Twitter,Winter Discount,LOC-572,Cloud Computing,Beginner,Expert,11.92,Failed,865.53,Team A,Susan Davis
+Aug-2024,Twitter,Limited Offer,LOC-710,AI Fundamentals,Beginner,Expert,2.09,Pending,620.36,Team D,Cynthia Wright
+Nov-2024,Instagram,Spring Sale,LOC-630,Python Programming,Intermediate,Basic,13.85,Paid,1739.06,Team C,Karen Matthews
+Dec-2024,Instagram,Cyber Monday,LOC-623,Cyber Security,Beginner,Advanced,6.82,Failed,1034.73,Team B,Holly Adams
+Nov-2024,Google Ads,Black Friday,LOC-906,Cloud Computing,Beginner,Intermediate,5.78,Failed,1653.36,Team D,William Parker
+Oct-2024,LinkedIn,Black Friday,LOC-751,Cloud Computing,Intermediate,Advanced,10.52,Pending,1541.45,Team A,Cody Kaiser
+Sep-2024,YouTube,Back to School,LOC-623,Cloud Computing,Intermediate,Intermediate,6.59,Failed,1760.19,Team D,William Meadows
+Feb-2024,Google Ads,Flash Sale,LOC-536,Data Science,Advanced,Intermediate,10.58,Pending,682.27,Team B,Jonathon Edwards
+Jun-2024,YouTube,Flash Sale,LOC-137,Machine Learning,Advanced,Expert,5.2,Pending,347.04,Team C,Miss Marissa Buchanan
+Sep-2024,Facebook,Back to School,LOC-889,Data Science,Beginner,Basic,8.76,Pending,1483.54,Team D,Judith Hartman
+May-2024,Email Campaign,Flash Sale,LOC-906,Cyber Security,Intermediate,Basic,2.44,Pending,1521.12,Team A,Jared Moreno
+Dec-2024,Twitter,Limited Offer,LOC-554,Cloud Computing,Beginner,Expert,13.71,Paid,1591.54,Team D,Maria Stevens
+Jul-2024,Email Campaign,Winter Discount,LOC-441,Cyber Security,Advanced,Advanced,2.25,Paid,688.22,Team C,Gabrielle Castillo
+Jan-2024,Email Campaign,Cyber Monday,LOC-296,Cyber Security,Advanced,Intermediate,2.61,Failed,1188.71,Team A,Judith Hartman
+Dec-2024,SEO,Winter Discount,LOC-694,Data Science,Advanced,Basic,4.7,Paid,1359.12,Team A,Cody Kaiser
+Jan-2024,SEO,Flash Sale,LOC-751,Cloud Computing,Beginner,Basic,13.09,Failed,1754.98,Team D,Shawn Collins
+Feb-2024,Facebook,Back to School,LOC-710,AI Fundamentals,Intermediate,Intermediate,12.8,Paid,1493.5,Team B,Dawn Herrera
+Mar-2024,Instagram,Winter Discount,LOC-277,AI Fundamentals,Advanced,Intermediate,12.68,Paid,1998.51,Team C,William Meadows
+Nov-2024,YouTube,Limited Offer,LOC-516,Data Science,Beginner,Basic,8.81,Paid,332.25,Team C,Maria Stevens
+May-2024,LinkedIn,Back to School,LOC-367,Machine Learning,Beginner,Basic,11.11,Pending,570.64,Team D,Melissa Bishop
+Feb-2024,Twitter,Spring Sale,LOC-715,Cloud Computing,Intermediate,Advanced,5.78,Paid,473.58,Team B,Angela Joseph
+Jul-2024,SEO,Winter Discount,LOC-673,Machine Learning,Beginner,Basic,13.88,Paid,1397.56,Team C,Stephanie Malone
+Feb-2024,Email Campaign,Cyber Monday,LOC-536,Cloud Computing,Beginner,Basic,2.49,Failed,399.34,Team C,Jared Moreno
+Apr-2024,LinkedIn,Black Friday,LOC-277,Cyber Security,Beginner,Expert,7.09,Pending,1744.31,Team C,Holly Adams
+Oct-2024,Google Ads,Cyber Monday,LOC-394,AI Fundamentals,Intermediate,Expert,3.29,Failed,724.29,Team A,April Barrett
+Mar-2024,Facebook,Spring Sale,LOC-710,Data Science,Advanced,Advanced,9.54,Failed,1318.33,Team C,Matthew Myers
+Dec-2024,Email Campaign,Black Friday,LOC-405,Cloud Computing,Intermediate,Expert,5.77,Failed,378.43,Team D,Douglas Johnston
+Mar-2024,Email Campaign,Cyber Monday,LOC-630,Python Programming,Advanced,Advanced,2.98,Paid,454.87,Team B,Phyllis Hogan
+Mar-2024,Twitter,Spring Sale,LOC-963,AI Fundamentals,Beginner,Expert,3.22,Pending,1990.68,Team A,Elizabeth Frazier
+Feb-2024,Instagram,Black Friday,LOC-954,AI Fundamentals,Beginner,Basic,11.61,Pending,830.64,Team A,Mrs. Gabrielle Larson
+Dec-2024,Email Campaign,Winter Discount,LOC-751,Cyber Security,Advanced,Intermediate,2.3,Pending,1583.16,Team D,Jared Moreno
+Jun-2024,Email Campaign,Spring Sale,LOC-128,Cyber Security,Advanced,Expert,12.32,Paid,355.17,Team C,Angela Reyes
+Feb-2024,Instagram,Back to School,LOC-985,Data Science,Intermediate,Basic,2.4,Failed,538.3,Team D,Jonathan Gentry
+Nov-2024,Instagram,Limited Offer,LOC-797,AI Fundamentals,Advanced,Intermediate,4.46,Failed,644.8,Team C,April Barrett
+Jul-2024,Facebook,Black Friday,LOC-550,Cloud Computing,Intermediate,Intermediate,14.67,Paid,1272.78,Team B,Michelle Roach
+Aug-2024,Twitter,Cyber Monday,LOC-405,Cloud Computing,Beginner,Advanced,3.9,Pending,114.83,Team D,Maria Stevens
+Jan-2024,Google Ads,Black Friday,LOC-709,Python Programming,Advanced,Expert,6.11,Pending,1739.65,Team C,Michelle Roach
+Oct-2024,Instagram,Winter Discount,LOC-985,Cyber Security,Advanced,Expert,5.09,Paid,325.54,Team B,Tyler Harris Jr.
+Jul-2024,Instagram,Cyber Monday,LOC-774,Cloud Computing,Beginner,Expert,9.97,Pending,1869.93,Team D,Megan Ramsey
+Apr-2024,Facebook,Back to School,LOC-554,Python Programming,Beginner,Basic,2.06,Paid,1485.68,Team C,William Parker
+Sep-2024,Twitter,Cyber Monday,LOC-822,AI Fundamentals,Intermediate,Basic,10.17,Failed,689.76,Team B,Heather Williams
+Sep-2024,YouTube,Cyber Monday,LOC-835,AI Fundamentals,Beginner,Advanced,3.0,Failed,1445.78,Team B,Melissa Bishop
+Oct-2024,Google Ads,Limited Offer,LOC-277,Machine Learning,Intermediate,Basic,11.33,Pending,1218.67,Team B,Jonathan Gentry
+Jan-2024,Facebook,Spring Sale,LOC-554,Data Science,Advanced,Expert,8.0,Paid,477.78,Team C,Maria Stevens
+Mar-2024,Email Campaign,Back to School,LOC-507,Machine Learning,Intermediate,Basic,5.88,Failed,752.99,Team D,Melissa Bishop
+Jun-2024,Twitter,Back to School,LOC-797,Machine Learning,Beginner,Basic,8.41,Failed,297.41,Team C,Melissa Bishop
+Oct-2024,Google Ads,Winter Discount,LOC-954,Cloud Computing,Beginner,Basic,3.81,Failed,1894.73,Team B,Megan Ramsey
+Jan-2024,Email Campaign,Back to School,LOC-875,Python Programming,Advanced,Intermediate,10.66,Paid,1253.2,Team C,Karen Matthews
+Dec-2024,YouTube,Cyber Monday,LOC-673,Data Science,Beginner,Basic,3.39,Failed,1945.9,Team D,Judith Hartman
+Sep-2024,Twitter,Spring Sale,LOC-901,Data Science,Advanced,Intermediate,4.89,Pending,152.79,Team D,Phyllis Hogan
+Apr-2024,Twitter,Cyber Monday,LOC-954,Machine Learning,Beginner,Advanced,3.3,Failed,147.76,Team B,Judith Hartman
+Sep-2024,SEO,Winter Discount,LOC-694,Cyber Security,Beginner,Advanced,5.96,Paid,1592.91,Team C,Mrs. Gabrielle Larson
+Sep-2024,Email Campaign,Winter Discount,LOC-963,AI Fundamentals,Intermediate,Advanced,14.25,Paid,1096.47,Team C,Briana Prince
+Sep-2024,Google Ads,Spring Sale,LOC-405,Cyber Security,Intermediate,Intermediate,12.02,Failed,1384.74,Team D,Samantha Brown
+Feb-2024,SEO,Back to School,LOC-797,Data Science,Advanced,Intermediate,7.62,Paid,1284.15,Team B,Angela Joseph
+Jul-2024,Email Campaign,Cyber Monday,LOC-963,Python Programming,Advanced,Advanced,4.71,Failed,896.46,Team B,Elizabeth Frazier
+Apr-2024,Email Campaign,Cyber Monday,LOC-954,Data Science,Beginner,Advanced,12.23,Failed,191.84,Team B,William Meadows
+Mar-2024,Facebook,Black Friday,LOC-569,Cloud Computing,Advanced,Intermediate,7.73,Failed,668.4,Team D,Daniel Garcia DVM
+Feb-2024,Twitter,Flash Sale,LOC-507,Cyber Security,Intermediate,Basic,5.36,Failed,1043.9,Team A,Susan Davis
+Oct-2024,SEO,Cyber Monday,LOC-835,Python Programming,Beginner,Basic,3.86,Paid,1215.0,Team B,Melissa Bishop
+Mar-2024,Google Ads,Cyber Monday,LOC-709,Machine Learning,Intermediate,Intermediate,6.01,Failed,1722.01,Team D,Diana Richardson
+Sep-2024,Facebook,Limited Offer,LOC-958,AI Fundamentals,Beginner,Advanced,11.32,Pending,1306.07,Team D,Dawn Herrera
+May-2024,Instagram,Black Friday,LOC-607,Machine Learning,Beginner,Basic,2.59,Paid,1745.35,Team C,William Parker
+May-2024,Instagram,Black Friday,LOC-550,Machine Learning,Beginner,Basic,14.52,Paid,1869.73,Team A,Douglas Johnston
+Jan-2024,Email Campaign,Spring Sale,LOC-709,AI Fundamentals,Advanced,Intermediate,13.38,Failed,985.37,Team D,Briana Prince
+Oct-2024,LinkedIn,Spring Sale,LOC-844,AI Fundamentals,Intermediate,Basic,2.69,Paid,209.06,Team A,Elizabeth Frazier
+Jan-2024,Instagram,Winter Discount,LOC-554,Cloud Computing,Intermediate,Expert,10.37,Pending,412.18,Team D,Janet Morrow PhD
+Jul-2024,Google Ads,Winter Discount,LOC-694,Python Programming,Beginner,Expert,7.74,Failed,1924.14,Team B,Dawn Herrera
+Feb-2024,SEO,Limited Offer,LOC-507,Cloud Computing,Advanced,Intermediate,6.92,Pending,427.48,Team A,April Barrett
+Jun-2024,SEO,Cyber Monday,LOC-709,Cloud Computing,Advanced,Intermediate,12.41,Failed,1695.98,Team C,Kelly Jones
+Aug-2024,Email Campaign,Limited Offer,LOC-709,Cyber Security,Beginner,Expert,2.62,Paid,249.98,Team A,Megan Ramsey
+Jun-2024,Email Campaign,Winter Discount,LOC-709,Cyber Security,Intermediate,Intermediate,2.76,Failed,201.25,Team C,Michelle Davila
+Apr-2024,SEO,Black Friday,LOC-906,Data Science,Advanced,Basic,13.63,Failed,1911.94,Team C,Miss Marissa Buchanan
+Sep-2024,YouTube,Flash Sale,LOC-889,AI Fundamentals,Advanced,Basic,5.83,Failed,1469.04,Team C,Alexis Coleman
+Sep-2024,Twitter,Flash Sale,LOC-572,Python Programming,Beginner,Basic,6.53,Pending,275.38,Team A,Phyllis Ruiz
+Aug-2024,Facebook,Flash Sale,LOC-625,Cloud Computing,Advanced,Intermediate,13.97,Paid,1783.58,Team A,Judith Hartman
+Feb-2024,SEO,Flash Sale,LOC-516,Python Programming,Beginner,Intermediate,12.09,Failed,321.84,Team A,Adam Montgomery
+Jun-2024,Instagram,Back to School,LOC-710,Cloud Computing,Beginner,Basic,9.23,Pending,572.77,Team C,Samantha Brown
+Mar-2024,SEO,Black Friday,LOC-330,Machine Learning,Beginner,Expert,14.43,Failed,1841.27,Team B,Daniel Garcia DVM
+Apr-2024,SEO,Spring Sale,LOC-572,Machine Learning,Intermediate,Advanced,12.9,Failed,270.82,Team D,Briana Prince
+Sep-2024,Email Campaign,Back to School,LOC-712,Cloud Computing,Intermediate,Intermediate,13.42,Pending,103.86,Team A,Angela Reyes
+Nov-2024,Facebook,Spring Sale,LOC-623,Cloud Computing,Advanced,Expert,9.07,Pending,741.18,Team C,Samantha Brown
+Aug-2024,Instagram,Limited Offer,LOC-202,Cyber Security,Beginner,Expert,2.48,Pending,342.53,Team A,Diana Richardson
+Mar-2024,Google Ads,Cyber Monday,LOC-901,Cloud Computing,Intermediate,Intermediate,11.33,Paid,836.71,Team B,Jonathon Edwards
+Oct-2024,Instagram,Cyber Monday,LOC-137,Machine Learning,Beginner,Intermediate,12.99,Paid,1309.3,Team D,William Meadows
+May-2024,LinkedIn,Cyber Monday,LOC-630,Python Programming,Advanced,Expert,3.77,Failed,353.57,Team B,Mrs. Gabrielle Larson
+Jun-2024,Facebook,Cyber Monday,LOC-405,AI Fundamentals,Advanced,Basic,13.65,Paid,1839.65,Team B,Michael Patel
+Nov-2024,SEO,Spring Sale,LOC-394,Python Programming,Advanced,Intermediate,5.83,Paid,1577.03,Team B,Tyler Harris Jr.
+Aug-2024,Instagram,Black Friday,LOC-433,Python Programming,Beginner,Advanced,14.25,Paid,1094.65,Team D,Diana Richardson
+Jun-2024,LinkedIn,Winter Discount,LOC-797,Cyber Security,Intermediate,Advanced,13.17,Failed,427.83,Team B,Gabrielle Walker
+Nov-2024,SEO,Cyber Monday,LOC-844,Machine Learning,Advanced,Intermediate,4.32,Pending,1185.24,Team C,Angela Joseph
+Jul-2024,Twitter,Winter Discount,LOC-569,Cyber Security,Beginner,Basic,14.16,Paid,1324.57,Team C,Adam Montgomery
+Aug-2024,Instagram,Winter Discount,LOC-709,Data Science,Beginner,Advanced,13.39,Paid,1233.44,Team C,Angela Reyes
+Sep-2024,Google Ads,Spring Sale,LOC-128,Cyber Security,Beginner,Expert,14.36,Pending,1546.95,Team D,Judith Hartman
+Apr-2024,Google Ads,Limited Offer,LOC-774,Cyber Security,Intermediate,Basic,9.7,Paid,168.24,Team A,Shawn Collins
+Jun-2024,SEO,Cyber Monday,LOC-710,Cyber Security,Intermediate,Advanced,9.15,Paid,1772.87,Team C,William Meadows
+Jun-2024,Twitter,Limited Offer,LOC-822,Python Programming,Advanced,Advanced,12.21,Paid,511.01,Team C,Maria Stevens
+Mar-2024,Email Campaign,Winter Discount,LOC-835,Python Programming,Intermediate,Advanced,14.11,Pending,1805.0,Team C,Gabrielle Walker
+May-2024,Email Campaign,Winter Discount,LOC-694,Cyber Security,Beginner,Advanced,11.13,Failed,606.57,Team B,Mrs. Gabrielle Larson
+Dec-2024,Email Campaign,Black Friday,LOC-128,Data Science,Intermediate,Basic,5.4,Pending,1901.25,Team C,Angela Joseph
+Oct-2024,Email Campaign,Back to School,LOC-901,Machine Learning,Advanced,Advanced,9.18,Failed,834.36,Team D,Michael Patel
+Sep-2024,Instagram,Spring Sale,LOC-137,Data Science,Advanced,Intermediate,13.25,Paid,1939.12,Team C,Cynthia Wright
+Jul-2024,Google Ads,Black Friday,LOC-985,Cloud Computing,Advanced,Intermediate,11.39,Pending,895.09,Team D,Paige Jones
+May-2024,Email Campaign,Limited Offer,LOC-230,Cloud Computing,Beginner,Advanced,12.35,Failed,1776.85,Team B,Diana Richardson
+Apr-2024,LinkedIn,Spring Sale,LOC-963,Cyber Security,Advanced,Expert,6.55,Pending,1258.19,Team D,Phyllis Hogan
+Mar-2024,Email Campaign,Black Friday,LOC-507,Data Science,Advanced,Advanced,6.39,Pending,508.77,Team C,William Meadows
+Oct-2024,LinkedIn,Limited Offer,LOC-394,Cloud Computing,Beginner,Expert,12.3,Failed,304.08,Team C,Melissa Bishop
+Nov-2024,Instagram,Winter Discount,LOC-858,Cloud Computing,Advanced,Basic,2.34,Failed,509.0,Team B,April Barrett
+Apr-2024,SEO,Black Friday,LOC-411,Cloud Computing,Advanced,Advanced,6.0,Failed,1830.79,Team C,Heather Williams
+Mar-2024,Twitter,Cyber Monday,LOC-806,Data Science,Intermediate,Expert,10.1,Paid,558.9,Team D,Holly Adams
+Jun-2024,Facebook,Cyber Monday,LOC-954,Python Programming,Beginner,Expert,10.93,Pending,1235.09,Team D,Alexis Coleman
+May-2024,Twitter,Cyber Monday,LOC-751,AI Fundamentals,Intermediate,Expert,6.55,Pending,194.8,Team A,William Meadows
+Oct-2024,Facebook,Cyber Monday,LOC-806,Data Science,Advanced,Basic,9.2,Failed,967.06,Team A,Jared Moreno
+Nov-2024,Twitter,Winter Discount,LOC-958,Cloud Computing,Beginner,Expert,14.7,Failed,1312.78,Team A,April Barrett
+Apr-2024,Facebook,Flash Sale,LOC-875,Cyber Security,Intermediate,Intermediate,12.77,Failed,259.31,Team D,Melissa Bishop
+Nov-2024,Google Ads,Back to School,LOC-985,AI Fundamentals,Advanced,Intermediate,9.69,Failed,481.92,Team D,Karen Matthews
+Jun-2024,Email Campaign,Cyber Monday,LOC-367,Cloud Computing,Advanced,Expert,7.45,Pending,908.85,Team B,April Barrett
+Nov-2024,Twitter,Black Friday,LOC-715,Cyber Security,Beginner,Expert,7.83,Paid,531.02,Team C,Heather Williams
+Jan-2024,SEO,Back to School,LOC-868,AI Fundamentals,Intermediate,Expert,4.83,Pending,891.78,Team B,Angela Joseph
+Nov-2024,SEO,Back to School,LOC-774,Python Programming,Advanced,Expert,6.75,Failed,1720.05,Team B,Jared Moreno
+Sep-2024,Facebook,Spring Sale,LOC-536,Cyber Security,Beginner,Intermediate,3.13,Failed,931.36,Team C,Michelle Roach
+Jul-2024,Google Ads,Flash Sale,LOC-985,Cyber Security,Intermediate,Basic,8.15,Failed,512.98,Team C,Melissa Bishop
+Apr-2024,Google Ads,Limited Offer,LOC-607,Data Science,Beginner,Intermediate,12.29,Pending,897.01,Team A,Stephanie Malone
+Jun-2024,Email Campaign,Limited Offer,LOC-607,Machine Learning,Advanced,Advanced,5.21,Pending,1309.7,Team C,Susan Davis
+Dec-2024,SEO,Back to School,LOC-137,Cyber Security,Advanced,Intermediate,2.73,Paid,1659.01,Team A,Angela Reyes
+Oct-2024,Email Campaign,Limited Offer,LOC-550,Cloud Computing,Advanced,Intermediate,14.96,Failed,1919.44,Team C,Shawn Collins
+Jun-2024,LinkedIn,Cyber Monday,LOC-985,Python Programming,Advanced,Expert,7.15,Paid,1979.41,Team B,Melissa Bishop
+Apr-2024,Instagram,Limited Offer,LOC-751,Machine Learning,Beginner,Intermediate,2.92,Pending,1979.32,Team D,Maria Stevens
+Jun-2024,Twitter,Flash Sale,LOC-230,Machine Learning,Advanced,Basic,13.7,Paid,441.34,Team B,Holly Adams
+Dec-2024,Email Campaign,Flash Sale,LOC-569,Python Programming,Beginner,Expert,9.57,Pending,1805.74,Team C,Jonathon Edwards
+Mar-2024,LinkedIn,Limited Offer,LOC-710,Data Science,Beginner,Intermediate,2.67,Paid,214.62,Team B,Elizabeth Frazier
+Aug-2024,YouTube,Back to School,LOC-982,Machine Learning,Advanced,Basic,2.76,Paid,635.47,Team B,Susan Davis
+Apr-2024,Email Campaign,Back to School,LOC-835,Machine Learning,Beginner,Basic,7.42,Pending,657.02,Team B,William Meadows
+Apr-2024,Email Campaign,Winter Discount,LOC-835,Data Science,Advanced,Advanced,13.52,Failed,1947.66,Team A,Dawn Herrera
+Sep-2024,Google Ads,Flash Sale,LOC-630,Machine Learning,Beginner,Intermediate,5.68,Pending,147.06,Team B,Melissa Bishop
+Dec-2024,Instagram,Black Friday,LOC-712,Cyber Security,Beginner,Intermediate,2.7,Paid,834.83,Team C,Michele Mclaughlin
+Jan-2024,Instagram,Winter Discount,LOC-202,Python Programming,Intermediate,Expert,11.97,Paid,610.73,Team C,Cynthia Wright
+Jun-2024,Facebook,Black Friday,LOC-569,Cloud Computing,Beginner,Expert,5.86,Pending,1292.89,Team A,Matthew Myers
+Mar-2024,LinkedIn,Black Friday,LOC-906,Cyber Security,Intermediate,Expert,13.67,Failed,218.55,Team C,Gabrielle Castillo
+Dec-2024,YouTube,Spring Sale,LOC-516,Machine Learning,Advanced,Expert,13.07,Paid,636.34,Team B,Melissa Bishop
+Dec-2024,Instagram,Back to School,LOC-694,Cloud Computing,Beginner,Advanced,6.7,Pending,483.83,Team A,Cynthia Wright
+May-2024,LinkedIn,Flash Sale,LOC-277,Cyber Security,Advanced,Expert,6.94,Pending,645.5,Team A,Judith Hartman
+Mar-2024,Twitter,Winter Discount,LOC-715,Machine Learning,Intermediate,Expert,11.83,Pending,914.46,Team A,Tyrone Taylor
+Dec-2024,Google Ads,Back to School,LOC-868,Python Programming,Advanced,Intermediate,14.93,Pending,887.37,Team C,Briana Prince
+Jan-2024,Facebook,Back to School,LOC-572,Cyber Security,Beginner,Basic,8.82,Failed,1982.11,Team D,Tyrone Taylor
+Mar-2024,Google Ads,Back to School,LOC-554,AI Fundamentals,Advanced,Intermediate,4.03,Pending,1907.7,Team B,Miss Marissa Buchanan
+Feb-2024,Facebook,Cyber Monday,LOC-906,Machine Learning,Intermediate,Basic,9.32,Failed,336.69,Team D,Maria Stevens
+Nov-2024,Facebook,Black Friday,LOC-963,Cloud Computing,Advanced,Advanced,2.99,Failed,1593.58,Team D,Elizabeth Frazier
+Mar-2024,Facebook,Limited Offer,LOC-858,Python Programming,Beginner,Basic,2.55,Pending,265.1,Team B,Jared Moreno
+Dec-2024,Google Ads,Flash Sale,LOC-516,Cloud Computing,Beginner,Advanced,13.35,Paid,1332.85,Team D,James Martinez
+May-2024,Google Ads,Winter Discount,LOC-889,Cloud Computing,Beginner,Basic,12.9,Failed,1834.57,Team B,Phyllis Ruiz
+Oct-2024,Email Campaign,Back to School,LOC-128,Machine Learning,Beginner,Advanced,7.18,Paid,525.79,Team C,William Parker
+Jan-2024,Email Campaign,Winter Discount,LOC-625,Data Science,Beginner,Expert,11.97,Paid,1934.1,Team B,Michael Patel
+Feb-2024,Google Ads,Back to School,LOC-296,Cyber Security,Beginner,Advanced,5.18,Pending,284.92,Team C,Maria Stevens
+Mar-2024,LinkedIn,Cyber Monday,LOC-137,Data Science,Intermediate,Basic,3.08,Pending,958.74,Team A,Matthew Myers
+Sep-2024,Email Campaign,Spring Sale,LOC-394,Machine Learning,Advanced,Intermediate,5.38,Paid,1246.46,Team D,April Barrett
+Feb-2024,Facebook,Back to School,LOC-858,AI Fundamentals,Beginner,Advanced,6.7,Paid,1106.95,Team D,Holly Adams
+Nov-2024,LinkedIn,Winter Discount,LOC-277,AI Fundamentals,Advanced,Expert,10.63,Failed,643.37,Team B,Shawn Collins
+Aug-2024,SEO,Back to School,LOC-875,Data Science,Intermediate,Advanced,2.74,Pending,1822.4,Team D,Phyllis Ruiz
+Apr-2024,YouTube,Flash Sale,LOC-607,Python Programming,Intermediate,Basic,4.57,Paid,854.8,Team C,Cynthia Wright
+Apr-2024,SEO,Black Friday,LOC-868,Cloud Computing,Intermediate,Expert,12.01,Paid,1137.36,Team A,Gabrielle Walker
+Mar-2024,LinkedIn,Cyber Monday,LOC-433,Cloud Computing,Beginner,Basic,14.23,Failed,1759.26,Team A,Phyllis Ruiz
+Feb-2024,SEO,Back to School,LOC-751,AI Fundamentals,Beginner,Intermediate,8.66,Paid,1648.31,Team B,Susan Thomas MD
+Jun-2024,Facebook,Winter Discount,LOC-694,Machine Learning,Advanced,Expert,7.38,Failed,1913.85,Team C,Kelly Jones
+May-2024,Twitter,Flash Sale,LOC-550,Data Science,Beginner,Basic,2.53,Pending,596.6,Team A,April Barrett
+Jul-2024,YouTube,Spring Sale,LOC-411,Python Programming,Beginner,Expert,2.84,Failed,1485.12,Team B,Karen Matthews
+Jul-2024,Google Ads,Black Friday,LOC-296,Cloud Computing,Beginner,Basic,11.06,Paid,568.53,Team C,Samantha Brown
+Apr-2024,Facebook,Cyber Monday,LOC-709,AI Fundamentals,Intermediate,Intermediate,14.68,Failed,1478.93,Team B,Stephanie Malone
+Jun-2024,Twitter,Spring Sale,LOC-906,Machine Learning,Advanced,Advanced,13.33,Failed,1276.34,Team B,Melissa Bishop
+Jun-2024,Email Campaign,Flash Sale,LOC-694,AI Fundamentals,Advanced,Basic,6.22,Paid,1630.7,Team D,Samantha Brown
+Feb-2024,SEO,Winter Discount,LOC-715,Cyber Security,Beginner,Basic,2.97,Failed,1619.09,Team B,Judith Hartman
+Jun-2024,Twitter,Cyber Monday,LOC-797,Cyber Security,Advanced,Basic,5.46,Pending,1509.21,Team A,Shawn Collins
+May-2024,LinkedIn,Winter Discount,LOC-405,Python Programming,Advanced,Advanced,6.71,Failed,1355.33,Team A,Robert Martinez
+Jul-2024,Instagram,Black Friday,LOC-954,Python Programming,Intermediate,Basic,12.34,Failed,376.1,Team B,Karen Jones
+Apr-2024,Twitter,Cyber Monday,LOC-694,Cyber Security,Beginner,Basic,3.43,Failed,737.84,Team B,Michele Mclaughlin
+Dec-2024,YouTube,Flash Sale,LOC-712,Machine Learning,Beginner,Basic,14.19,Failed,202.01,Team C,Samantha Brown
+Jun-2024,Google Ads,Flash Sale,LOC-625,Cloud Computing,Beginner,Advanced,14.46,Pending,1683.22,Team D,William Meadows
+May-2024,YouTube,Back to School,LOC-607,Machine Learning,Beginner,Intermediate,11.64,Pending,333.38,Team A,William Parker
+May-2024,Email Campaign,Cyber Monday,LOC-411,Cloud Computing,Advanced,Advanced,5.28,Paid,860.85,Team D,Michele Mclaughlin
+Oct-2024,Email Campaign,Flash Sale,LOC-625,Cyber Security,Beginner,Advanced,7.35,Pending,195.13,Team C,Tyler Harris Jr.
+Jan-2024,Facebook,Black Friday,LOC-958,Cyber Security,Beginner,Expert,13.81,Paid,604.36,Team D,Mrs. Gabrielle Larson
+Feb-2024,Twitter,Flash Sale,LOC-277,AI Fundamentals,Intermediate,Intermediate,8.2,Paid,608.65,Team B,Cody Kaiser
+Nov-2024,Twitter,Back to School,LOC-710,Cyber Security,Beginner,Basic,3.32,Paid,352.89,Team A,Michelle Davila
+Jan-2024,LinkedIn,Flash Sale,LOC-536,Data Science,Intermediate,Advanced,4.7,Failed,1021.06,Team C,Cody Kaiser
+Feb-2024,LinkedIn,Flash Sale,LOC-128,Cloud Computing,Advanced,Advanced,3.24,Pending,128.59,Team D,Maria Stevens
+Sep-2024,Instagram,Flash Sale,LOC-889,Cloud Computing,Beginner,Intermediate,2.27,Paid,1593.86,Team A,Angela Reyes
+Mar-2024,Facebook,Limited Offer,LOC-536,Machine Learning,Intermediate,Advanced,14.46,Failed,367.07,Team D,William Parker
+May-2024,Email Campaign,Cyber Monday,LOC-214,Cloud Computing,Beginner,Advanced,4.46,Pending,1596.01,Team C,Cody Kaiser
+Apr-2024,Facebook,Spring Sale,LOC-572,Machine Learning,Advanced,Expert,4.57,Pending,1089.78,Team D,Karen Matthews
+Mar-2024,Twitter,Winter Discount,LOC-985,Data Science,Beginner,Basic,9.39,Pending,541.88,Team D,Elizabeth Frazier
+Feb-2024,LinkedIn,Limited Offer,LOC-858,Machine Learning,Intermediate,Intermediate,10.65,Pending,1986.02,Team A,Maria Stevens
+Sep-2024,LinkedIn,Flash Sale,LOC-516,Machine Learning,Beginner,Basic,7.27,Pending,829.89,Team B,James Martinez
+Jun-2024,Google Ads,Winter Discount,LOC-901,Python Programming,Beginner,Intermediate,5.22,Failed,1400.9,Team D,Michael Patel
+Jul-2024,YouTube,Limited Offer,LOC-507,Python Programming,Advanced,Basic,5.56,Failed,1701.27,Team A,Michelle Roach
+May-2024,LinkedIn,Cyber Monday,LOC-405,Machine Learning,Beginner,Basic,12.08,Failed,319.27,Team D,Michelle Roach
+Sep-2024,Instagram,Cyber Monday,LOC-330,Machine Learning,Intermediate,Basic,10.6,Pending,1933.64,Team A,Mrs. Gabrielle Larson
+Oct-2024,SEO,Back to School,LOC-433,Machine Learning,Intermediate,Intermediate,9.4,Paid,733.02,Team C,Tyrone Taylor
+Jul-2024,Google Ads,Cyber Monday,LOC-275,Cloud Computing,Beginner,Expert,14.02,Paid,1207.34,Team C,Matthew Myers
+Jan-2024,Twitter,Black Friday,LOC-710,AI Fundamentals,Advanced,Advanced,3.21,Failed,592.5,Team D,Susan Davis
+Jul-2024,YouTube,Flash Sale,LOC-623,Cyber Security,Advanced,Advanced,14.01,Pending,372.26,Team B,Karen Jones
+Aug-2024,Twitter,Black Friday,LOC-230,Cloud Computing,Intermediate,Intermediate,2.18,Paid,1248.68,Team A,Matthew Myers
+Jun-2024,Twitter,Black Friday,LOC-630,Machine Learning,Intermediate,Intermediate,9.97,Failed,1595.48,Team B,Cynthia Wright
+Apr-2024,Email Campaign,Flash Sale,LOC-797,Cyber Security,Advanced,Intermediate,4.5,Paid,1462.49,Team C,Tyrone Taylor
+Jun-2024,Facebook,Black Friday,LOC-958,Data Science,Beginner,Basic,7.1,Pending,916.26,Team C,Briana Prince
+Jun-2024,Google Ads,Back to School,LOC-710,Machine Learning,Intermediate,Advanced,7.99,Pending,788.34,Team B,Melissa Bishop
+Mar-2024,Email Campaign,Limited Offer,LOC-906,Data Science,Advanced,Advanced,9.67,Failed,701.58,Team B,Miss Marissa Buchanan
+Mar-2024,Twitter,Back to School,LOC-405,Data Science,Beginner,Expert,11.59,Failed,845.55,Team A,Alexis Coleman
+Feb-2024,SEO,Spring Sale,LOC-835,AI Fundamentals,Advanced,Advanced,2.03,Failed,300.97,Team B,William Meadows
+Nov-2024,SEO,Spring Sale,LOC-710,Machine Learning,Advanced,Advanced,3.28,Paid,426.38,Team C,Dawn Herrera
+May-2024,Instagram,Spring Sale,LOC-710,AI Fundamentals,Intermediate,Basic,2.98,Failed,1659.27,Team D,Susan Thomas MD
+Feb-2024,Facebook,Cyber Monday,LOC-673,Machine Learning,Beginner,Expert,5.93,Failed,265.13,Team A,Shawn Collins
+Jul-2024,SEO,Back to School,LOC-441,Machine Learning,Beginner,Basic,10.54,Failed,756.91,Team B,Holly Adams
+Feb-2024,LinkedIn,Limited Offer,LOC-715,Data Science,Beginner,Expert,6.24,Pending,1741.75,Team D,Michael Patel
+Jun-2024,Facebook,Cyber Monday,LOC-630,Data Science,Advanced,Advanced,11.05,Failed,1403.55,Team A,Cody Kaiser
+Jul-2024,Instagram,Limited Offer,LOC-774,AI Fundamentals,Advanced,Expert,2.75,Failed,1490.1,Team C,Tyrone Taylor
+Jun-2024,Twitter,Limited Offer,LOC-630,Machine Learning,Intermediate,Advanced,13.4,Paid,778.78,Team B,Melissa Bishop
+Aug-2024,SEO,Winter Discount,LOC-868,Python Programming,Intermediate,Advanced,12.18,Failed,170.91,Team D,Gabrielle Castillo
+Feb-2024,Instagram,Spring Sale,LOC-275,Cloud Computing,Beginner,Basic,13.66,Pending,1802.71,Team B,Briana Prince
+Aug-2024,SEO,Flash Sale,LOC-889,Python Programming,Beginner,Expert,7.16,Paid,237.02,Team B,Elizabeth Frazier
+May-2024,Twitter,Limited Offer,LOC-709,Cyber Security,Intermediate,Advanced,5.21,Pending,1391.83,Team A,Adam Montgomery
+Jun-2024,Instagram,Black Friday,LOC-710,Machine Learning,Advanced,Intermediate,11.25,Paid,786.61,Team A,Jonathan Gentry
+Jan-2024,Instagram,Spring Sale,LOC-858,Cloud Computing,Beginner,Expert,13.75,Failed,1606.38,Team A,Gabrielle Walker
+Sep-2024,Google Ads,Winter Discount,LOC-797,Machine Learning,Advanced,Expert,9.45,Failed,1451.96,Team C,Susan Thomas MD
+May-2024,Email Campaign,Flash Sale,LOC-623,Cloud Computing,Beginner,Advanced,5.39,Pending,103.9,Team B,Gabrielle Walker
+Jan-2024,YouTube,Limited Offer,LOC-277,Cyber Security,Intermediate,Advanced,10.59,Pending,554.18,Team B,Phyllis Ruiz
+Nov-2024,YouTube,Black Friday,LOC-835,Machine Learning,Beginner,Expert,5.0,Pending,1242.11,Team A,Dawn Herrera
+Sep-2024,LinkedIn,Winter Discount,LOC-550,Python Programming,Beginner,Expert,4.46,Pending,1017.71,Team A,Gabrielle Walker
+Dec-2024,SEO,Limited Offer,LOC-572,Cloud Computing,Intermediate,Intermediate,14.71,Paid,1109.86,Team A,William Meadows
+Aug-2024,Twitter,Winter Discount,LOC-214,Machine Learning,Advanced,Advanced,14.96,Paid,1563.97,Team B,Angela Reyes
+Jun-2024,Google Ads,Cyber Monday,LOC-797,AI Fundamentals,Intermediate,Intermediate,3.76,Failed,1977.37,Team D,Douglas Johnston
+Jul-2024,Twitter,Winter Discount,LOC-128,Machine Learning,Beginner,Intermediate,4.15,Paid,1033.46,Team A,Janet Morrow PhD
+Oct-2024,Google Ads,Back to School,LOC-214,Cyber Security,Advanced,Basic,3.09,Pending,813.51,Team B,Samantha Brown
+Feb-2024,Facebook,Black Friday,LOC-694,Python Programming,Intermediate,Advanced,4.76,Failed,752.99,Team B,Megan Ramsey
+Apr-2024,Email Campaign,Back to School,LOC-296,Cloud Computing,Advanced,Advanced,6.93,Pending,1352.66,Team D,Phyllis Hogan
+Dec-2024,Google Ads,Limited Offer,LOC-982,Data Science,Beginner,Basic,13.19,Paid,246.75,Team B,Michael Patel
+Nov-2024,Instagram,Cyber Monday,LOC-806,Data Science,Advanced,Intermediate,10.12,Failed,638.65,Team D,Janet Morrow PhD
+Jun-2024,Facebook,Limited Offer,LOC-715,Machine Learning,Beginner,Basic,3.81,Pending,384.39,Team A,Michele Mclaughlin
+Nov-2024,YouTube,Flash Sale,LOC-982,AI Fundamentals,Intermediate,Basic,13.84,Paid,1965.48,Team D,Susan Thomas MD
+Nov-2024,Instagram,Limited Offer,LOC-230,Machine Learning,Beginner,Expert,12.41,Failed,500.56,Team A,Jared Moreno
+Jan-2024,YouTube,Black Friday,LOC-858,Cyber Security,Advanced,Basic,8.15,Paid,1965.73,Team C,Melissa Bishop
+Jan-2024,SEO,Flash Sale,LOC-433,Data Science,Beginner,Basic,6.07,Pending,467.68,Team D,Megan Ramsey
+Sep-2024,Twitter,Winter Discount,LOC-822,Cyber Security,Beginner,Expert,7.69,Failed,1662.24,Team C,Diana Richardson
+Jun-2024,Twitter,Flash Sale,LOC-982,Python Programming,Intermediate,Intermediate,8.19,Pending,1786.3,Team C,Maria Stevens
+Jun-2024,YouTube,Back to School,LOC-214,Python Programming,Advanced,Expert,13.02,Pending,947.85,Team B,Elizabeth Frazier
+Mar-2024,YouTube,Cyber Monday,LOC-868,Data Science,Advanced,Expert,8.3,Pending,1748.05,Team B,Adam Montgomery
+Oct-2024,Twitter,Limited Offer,LOC-963,Cyber Security,Beginner,Basic,5.77,Failed,408.09,Team D,Judith Hartman
+Aug-2024,Google Ads,Flash Sale,LOC-394,Python Programming,Beginner,Expert,14.05,Pending,272.54,Team D,Angela Reyes
+Jun-2024,Google Ads,Back to School,LOC-901,Cloud Computing,Intermediate,Basic,14.25,Paid,1585.88,Team B,Megan Ramsey
+Jul-2024,Instagram,Cyber Monday,LOC-806,Python Programming,Beginner,Expert,7.65,Failed,126.21,Team C,Shawn Collins
+Jul-2024,LinkedIn,Winter Discount,LOC-214,Python Programming,Advanced,Intermediate,13.5,Paid,596.0,Team D,Holly Adams
+Jan-2024,Twitter,Flash Sale,LOC-296,AI Fundamentals,Beginner,Expert,5.64,Paid,1928.09,Team A,Angela Joseph
+May-2024,Facebook,Back to School,LOC-985,Machine Learning,Intermediate,Basic,11.95,Failed,1453.04,Team B,April Barrett
+Jan-2024,SEO,Cyber Monday,LOC-954,AI Fundamentals,Beginner,Basic,9.87,Paid,1940.33,Team D,Adam Montgomery
+Jul-2024,LinkedIn,Limited Offer,LOC-712,AI Fundamentals,Intermediate,Expert,11.7,Failed,560.64,Team A,Karen Matthews
+Sep-2024,Twitter,Back to School,LOC-958,Machine Learning,Intermediate,Basic,3.81,Failed,1683.04,Team C,Miss Marissa Buchanan
+Feb-2024,Facebook,Back to School,LOC-982,Data Science,Beginner,Advanced,4.72,Pending,418.37,Team A,Phyllis Ruiz
+Apr-2024,Twitter,Spring Sale,LOC-623,Python Programming,Advanced,Basic,2.89,Paid,1750.25,Team C,Holly Adams
+Sep-2024,YouTube,Limited Offer,LOC-572,Cloud Computing,Advanced,Expert,14.33,Failed,658.96,Team B,Robert Martinez
+Sep-2024,SEO,Back to School,LOC-507,Cloud Computing,Intermediate,Intermediate,9.91,Failed,286.59,Team C,April Barrett
+Feb-2024,Twitter,Back to School,LOC-715,Cyber Security,Intermediate,Intermediate,6.51,Pending,1165.14,Team A,Phyllis Hogan
+Oct-2024,YouTube,Back to School,LOC-623,Python Programming,Advanced,Intermediate,6.78,Failed,1819.86,Team A,Phyllis Hogan
+Jul-2024,Email Campaign,Limited Offer,LOC-296,AI Fundamentals,Intermediate,Basic,5.88,Failed,652.11,Team B,Holly Adams
+Dec-2024,Facebook,Flash Sale,LOC-822,Machine Learning,Intermediate,Advanced,5.79,Pending,382.84,Team C,Melissa Bishop
+Dec-2024,YouTube,Back to School,LOC-710,AI Fundamentals,Intermediate,Expert,11.79,Failed,1584.68,Team A,Susan Davis
+May-2024,LinkedIn,Winter Discount,LOC-367,Cyber Security,Beginner,Expert,12.26,Paid,1314.77,Team B,Tyrone Taylor
+Dec-2024,YouTube,Spring Sale,LOC-709,AI Fundamentals,Advanced,Basic,9.14,Failed,408.11,Team D,Gabrielle Walker
+Aug-2024,Twitter,Black Friday,LOC-441,Data Science,Beginner,Advanced,5.66,Pending,1214.02,Team C,Susan Thomas MD
+Dec-2024,Email Campaign,Black Friday,LOC-623,AI Fundamentals,Advanced,Advanced,3.67,Paid,1826.68,Team B,Elizabeth Frazier
+Jun-2024,YouTube,Spring Sale,LOC-330,Machine Learning,Advanced,Basic,3.66,Failed,1536.76,Team A,Jonathan Gentry
+Jan-2024,Twitter,Cyber Monday,LOC-507,Python Programming,Advanced,Basic,10.19,Failed,1234.22,Team A,Briana Prince
+Jan-2024,YouTube,Limited Offer,LOC-710,AI Fundamentals,Intermediate,Basic,11.49,Failed,1577.26,Team D,Michele Mclaughlin
+Feb-2024,LinkedIn,Spring Sale,LOC-715,Cloud Computing,Beginner,Intermediate,9.91,Paid,1747.51,Team C,Paige Jones
+Jul-2024,YouTube,Black Friday,LOC-906,Machine Learning,Intermediate,Expert,9.22,Pending,336.86,Team B,Alexis Coleman
+Jan-2024,Twitter,Black Friday,LOC-858,Cloud Computing,Intermediate,Advanced,13.91,Pending,155.12,Team C,Tyrone Taylor
+Jun-2024,Email Campaign,Winter Discount,LOC-330,Cloud Computing,Advanced,Advanced,10.89,Pending,1382.42,Team D,Melissa Bishop
+Jun-2024,YouTube,Spring Sale,LOC-868,Data Science,Beginner,Basic,7.95,Failed,1073.09,Team D,Robert Martinez
+Dec-2024,LinkedIn,Winter Discount,LOC-712,AI Fundamentals,Advanced,Advanced,10.23,Failed,1681.62,Team C,Susan Thomas MD
+Sep-2024,Facebook,Winter Discount,LOC-625,Data Science,Intermediate,Advanced,4.82,Paid,304.17,Team B,Stephanie Malone
+Jan-2024,Email Campaign,Limited Offer,LOC-296,AI Fundamentals,Advanced,Intermediate,2.67,Failed,1734.52,Team A,Tyler Harris Jr.
+Nov-2024,Instagram,Cyber Monday,LOC-712,Cloud Computing,Advanced,Expert,12.45,Pending,1271.59,Team C,Judith Hartman
+Mar-2024,Instagram,Back to School,LOC-275,AI Fundamentals,Intermediate,Advanced,10.09,Paid,1862.96,Team A,Jonathan Gentry
+Nov-2024,SEO,Limited Offer,LOC-797,Python Programming,Advanced,Advanced,11.94,Pending,1517.28,Team C,Phyllis Ruiz
+Jun-2024,Email Campaign,Back to School,LOC-774,Cloud Computing,Beginner,Advanced,8.33,Paid,858.17,Team B,April Barrett
+Jan-2024,SEO,Cyber Monday,LOC-230,Data Science,Intermediate,Basic,3.96,Failed,924.64,Team A,William Meadows
+Jun-2024,YouTube,Cyber Monday,LOC-569,Data Science,Intermediate,Advanced,12.21,Pending,247.06,Team D,Diana Richardson
+Sep-2024,SEO,Spring Sale,LOC-516,Machine Learning,Advanced,Advanced,13.82,Paid,218.6,Team D,Maria Stevens
+Dec-2024,Email Campaign,Black Friday,LOC-835,Cloud Computing,Beginner,Advanced,2.31,Pending,1877.84,Team C,Michelle Davila
+May-2024,Google Ads,Winter Discount,LOC-394,AI Fundamentals,Advanced,Basic,3.42,Failed,1269.74,Team C,Dawn Herrera
+Jul-2024,Twitter,Black Friday,LOC-625,Cloud Computing,Intermediate,Basic,6.88,Pending,408.79,Team D,Jonathon Edwards
+Mar-2024,Google Ads,Spring Sale,LOC-507,Cyber Security,Intermediate,Basic,3.32,Failed,244.56,Team D,Miss Marissa Buchanan
+Aug-2024,Twitter,Limited Offer,LOC-906,Cloud Computing,Advanced,Advanced,13.23,Paid,967.37,Team B,Maria Stevens
+Jul-2024,Facebook,Cyber Monday,LOC-982,Data Science,Intermediate,Advanced,9.41,Failed,1352.9,Team A,Douglas Johnston
+Dec-2024,Facebook,Winter Discount,LOC-709,Python Programming,Advanced,Advanced,10.77,Pending,825.03,Team B,Heather Williams
+May-2024,LinkedIn,Black Friday,LOC-985,AI Fundamentals,Intermediate,Advanced,7.25,Paid,1851.82,Team B,Miss Marissa Buchanan
+Mar-2024,Twitter,Spring Sale,LOC-569,Cyber Security,Advanced,Advanced,7.81,Failed,1428.78,Team A,Karen Matthews
+Jan-2024,Facebook,Limited Offer,LOC-630,Cloud Computing,Intermediate,Advanced,8.68,Paid,422.66,Team A,Melissa Bishop
+Oct-2024,LinkedIn,Flash Sale,LOC-797,Python Programming,Advanced,Advanced,12.16,Failed,1893.53,Team B,Alexis Coleman
+Apr-2024,Google Ads,Winter Discount,LOC-844,Data Science,Beginner,Expert,6.34,Paid,807.75,Team C,Heather Williams
+Jul-2024,LinkedIn,Black Friday,LOC-275,Data Science,Beginner,Basic,7.82,Pending,1693.3,Team A,Samantha Brown
+Jul-2024,LinkedIn,Cyber Monday,LOC-625,Python Programming,Beginner,Basic,14.04,Paid,1035.78,Team B,Michelle Roach
+Oct-2024,YouTube,Back to School,LOC-889,Python Programming,Intermediate,Advanced,11.19,Paid,1703.31,Team B,Melissa Bishop
+Jul-2024,Facebook,Flash Sale,LOC-296,Python Programming,Beginner,Expert,9.94,Pending,132.13,Team B,Michele Mclaughlin
+Jul-2024,SEO,Limited Offer,LOC-835,Data Science,Beginner,Intermediate,2.76,Paid,1612.95,Team B,Maria Stevens
+Sep-2024,Instagram,Limited Offer,LOC-751,Python Programming,Intermediate,Intermediate,10.81,Paid,537.62,Team A,Michelle Davila
+Oct-2024,LinkedIn,Flash Sale,LOC-516,Machine Learning,Intermediate,Intermediate,10.45,Pending,1329.02,Team B,Tyler Harris Jr.
+Nov-2024,SEO,Cyber Monday,LOC-712,Cyber Security,Advanced,Basic,4.93,Failed,690.27,Team C,April Barrett
+May-2024,YouTube,Flash Sale,LOC-330,Data Science,Advanced,Advanced,11.65,Paid,838.53,Team B,Mrs. Gabrielle Larson
+Sep-2024,LinkedIn,Winter Discount,LOC-710,AI Fundamentals,Intermediate,Advanced,11.3,Pending,639.94,Team A,Jared Moreno
+Aug-2024,SEO,Winter Discount,LOC-230,Machine Learning,Intermediate,Advanced,6.63,Paid,379.96,Team A,Michele Mclaughlin
+Feb-2024,Email Campaign,Winter Discount,LOC-623,Cloud Computing,Intermediate,Advanced,8.52,Pending,136.66,Team A,Shawn Collins
+Jul-2024,YouTube,Limited Offer,LOC-275,Machine Learning,Beginner,Expert,10.64,Paid,1599.24,Team D,Jonathon Edwards
+Sep-2024,Twitter,Black Friday,LOC-963,Machine Learning,Advanced,Advanced,11.01,Paid,1655.76,Team D,Jared Moreno
+Mar-2024,Twitter,Cyber Monday,LOC-507,Python Programming,Intermediate,Intermediate,13.74,Paid,1834.34,Team B,Tyler Harris Jr.
+Sep-2024,SEO,Spring Sale,LOC-433,Data Science,Advanced,Intermediate,11.74,Pending,895.59,Team D,Diana Richardson
+Nov-2024,Twitter,Black Friday,LOC-963,Cyber Security,Beginner,Expert,10.11,Paid,1244.85,Team A,Holly Adams
+Apr-2024,Twitter,Cyber Monday,LOC-985,Cloud Computing,Beginner,Expert,4.34,Pending,1703.4,Team C,Alexis Coleman
+Mar-2024,Facebook,Cyber Monday,LOC-958,AI Fundamentals,Intermediate,Basic,9.45,Failed,1299.19,Team D,Douglas Johnston
+Dec-2024,Facebook,Limited Offer,LOC-806,Cyber Security,Intermediate,Advanced,3.68,Failed,717.8,Team B,Megan Ramsey
+Apr-2024,SEO,Winter Discount,LOC-751,AI Fundamentals,Intermediate,Advanced,10.14,Failed,404.84,Team D,Cody Kaiser
+Mar-2024,LinkedIn,Winter Discount,LOC-712,Python Programming,Advanced,Expert,6.14,Pending,1203.06,Team B,Jonathan Gentry
+Mar-2024,Email Campaign,Spring Sale,LOC-550,Python Programming,Beginner,Basic,7.89,Pending,241.25,Team B,William Meadows
+Jan-2024,Twitter,Cyber Monday,LOC-230,Cloud Computing,Advanced,Intermediate,2.34,Pending,816.23,Team A,Susan Thomas MD
+Jul-2024,Instagram,Cyber Monday,LOC-275,Machine Learning,Beginner,Basic,5.19,Paid,799.51,Team C,Angela Joseph
+Mar-2024,SEO,Cyber Monday,LOC-128,Cyber Security,Advanced,Advanced,7.6,Paid,1217.39,Team B,Judith Hartman
+Oct-2024,Google Ads,Flash Sale,LOC-554,AI Fundamentals,Intermediate,Expert,9.77,Pending,1550.2,Team A,Judith Hartman
+Mar-2024,Google Ads,Spring Sale,LOC-405,Python Programming,Advanced,Intermediate,4.57,Paid,1493.87,Team C,Adam Montgomery
+Jan-2024,SEO,Spring Sale,LOC-516,Cyber Security,Intermediate,Basic,2.33,Paid,1133.87,Team C,Karen Matthews
+Jan-2024,Email Campaign,Flash Sale,LOC-214,Data Science,Advanced,Advanced,7.01,Failed,429.58,Team C,Tyler Harris Jr.
+May-2024,Email Campaign,Limited Offer,LOC-822,Cyber Security,Beginner,Advanced,12.37,Paid,1554.97,Team D,Elizabeth Frazier
+Aug-2024,Google Ads,Winter Discount,LOC-709,Data Science,Intermediate,Intermediate,13.63,Failed,1406.39,Team B,Dawn Herrera
+Feb-2024,YouTube,Spring Sale,LOC-751,Python Programming,Advanced,Intermediate,4.83,Pending,1982.61,Team A,Dawn Herrera
+Aug-2024,Google Ads,Flash Sale,LOC-296,Data Science,Advanced,Advanced,2.5,Failed,585.14,Team C,Alexis Coleman
+Oct-2024,LinkedIn,Flash Sale,LOC-751,Data Science,Advanced,Intermediate,14.42,Paid,604.7,Team A,Gabrielle Castillo
+Jan-2024,Twitter,Black Friday,LOC-625,Data Science,Beginner,Intermediate,11.04,Paid,113.11,Team C,Samantha Brown
+Mar-2024,LinkedIn,Back to School,LOC-137,Python Programming,Advanced,Advanced,3.53,Failed,1217.04,Team A,Angela Reyes
+Feb-2024,Email Campaign,Spring Sale,LOC-958,Cyber Security,Advanced,Expert,12.01,Failed,1417.29,Team D,Judith Hartman
+Feb-2024,Google Ads,Back to School,LOC-985,Data Science,Advanced,Intermediate,9.5,Failed,1182.1,Team C,Paige Jones
+Jul-2024,Facebook,Flash Sale,LOC-296,Cloud Computing,Intermediate,Basic,4.47,Pending,102.14,Team D,Megan Ramsey
+May-2024,Google Ads,Winter Discount,LOC-277,Cloud Computing,Beginner,Expert,7.54,Paid,1443.71,Team D,Paige Jones
+Sep-2024,Google Ads,Limited Offer,LOC-607,Python Programming,Beginner,Intermediate,10.99,Failed,1146.14,Team C,Michelle Davila
+Oct-2024,YouTube,Black Friday,LOC-214,Python Programming,Advanced,Intermediate,4.53,Pending,534.2,Team B,Robert Martinez
+Aug-2024,LinkedIn,Back to School,LOC-230,Cloud Computing,Beginner,Intermediate,10.25,Failed,1589.24,Team B,Phyllis Hogan
+Sep-2024,Instagram,Back to School,LOC-275,AI Fundamentals,Advanced,Intermediate,8.49,Failed,1335.32,Team D,Karen Jones
+Oct-2024,Twitter,Spring Sale,LOC-607,Python Programming,Beginner,Advanced,7.07,Pending,1099.14,Team D,Tyler Harris Jr.
+Dec-2024,YouTube,Spring Sale,LOC-296,Python Programming,Beginner,Basic,12.26,Paid,1941.2,Team D,Mrs. Gabrielle Larson
+Sep-2024,Facebook,Spring Sale,LOC-330,Machine Learning,Intermediate,Expert,6.92,Pending,1739.35,Team C,Melissa Bishop
+Nov-2024,Instagram,Cyber Monday,LOC-806,Data Science,Beginner,Expert,4.64,Pending,1131.2,Team B,James Martinez
+Feb-2024,SEO,Back to School,LOC-709,Python Programming,Intermediate,Advanced,13.14,Failed,1762.09,Team A,Judith Hartman
+Mar-2024,YouTube,Spring Sale,LOC-712,AI Fundamentals,Beginner,Advanced,6.19,Paid,267.15,Team C,Susan Thomas MD
+Nov-2024,LinkedIn,Spring Sale,LOC-751,AI Fundamentals,Intermediate,Expert,3.68,Failed,870.11,Team C,Adam Montgomery
+Feb-2024,SEO,Winter Discount,LOC-673,Cyber Security,Advanced,Expert,3.08,Failed,1302.53,Team D,Angela Reyes
+Nov-2024,SEO,Cyber Monday,LOC-954,Machine Learning,Advanced,Advanced,10.2,Paid,1836.68,Team D,Maria Stevens
+Jul-2024,Facebook,Limited Offer,LOC-774,AI Fundamentals,Intermediate,Advanced,5.83,Paid,704.83,Team D,Michael Patel
+May-2024,Twitter,Black Friday,LOC-569,Cyber Security,Beginner,Advanced,2.24,Pending,572.09,Team B,Alexis Coleman
+Feb-2024,LinkedIn,Spring Sale,LOC-673,Python Programming,Advanced,Basic,9.14,Failed,910.68,Team B,Holly Adams
+Sep-2024,Instagram,Flash Sale,LOC-906,Cyber Security,Intermediate,Expert,8.5,Pending,1978.6,Team D,Douglas Johnston
+Mar-2024,Google Ads,Back to School,LOC-985,AI Fundamentals,Intermediate,Advanced,6.69,Pending,695.57,Team C,Mrs. Gabrielle Larson
+Dec-2024,Facebook,Flash Sale,LOC-710,AI Fundamentals,Intermediate,Basic,9.93,Failed,1220.06,Team D,James Martinez
+May-2024,Instagram,Black Friday,LOC-710,Data Science,Intermediate,Basic,12.27,Failed,1479.3,Team B,Judith Hartman
+Dec-2024,Email Campaign,Limited Offer,LOC-569,AI Fundamentals,Intermediate,Expert,11.02,Paid,1891.34,Team D,Daniel Garcia DVM
+Apr-2024,Google Ads,Spring Sale,LOC-202,Cyber Security,Intermediate,Basic,10.76,Pending,1208.45,Team A,Angela Joseph
+May-2024,Google Ads,Black Friday,LOC-710,Cloud Computing,Intermediate,Intermediate,5.65,Pending,1592.08,Team B,Samantha Brown
+Aug-2024,Twitter,Winter Discount,LOC-712,Data Science,Advanced,Expert,2.16,Pending,590.28,Team C,Jonathan Gentry
+Aug-2024,Google Ads,Spring Sale,LOC-275,Machine Learning,Beginner,Basic,14.0,Paid,878.34,Team A,William Parker
+Jun-2024,Instagram,Cyber Monday,LOC-751,AI Fundamentals,Advanced,Expert,13.6,Pending,1900.52,Team B,Samantha Brown
+Aug-2024,YouTube,Cyber Monday,LOC-296,Cloud Computing,Advanced,Basic,2.77,Paid,1355.35,Team A,Jared Moreno
+Aug-2024,Facebook,Black Friday,LOC-202,Cloud Computing,Intermediate,Intermediate,13.77,Failed,777.32,Team D,Kelly Jones
+Sep-2024,YouTube,Black Friday,LOC-433,Python Programming,Intermediate,Basic,11.49,Failed,1827.17,Team C,Melissa Bishop
+Feb-2024,Facebook,Winter Discount,LOC-858,Data Science,Intermediate,Advanced,8.56,Failed,1795.43,Team D,Michele Mclaughlin
+Jan-2024,Instagram,Black Friday,LOC-858,Machine Learning,Intermediate,Intermediate,5.46,Paid,411.08,Team D,Janet Morrow PhD
+Mar-2024,Email Campaign,Limited Offer,LOC-694,Python Programming,Beginner,Basic,8.63,Failed,1406.64,Team D,Janet Morrow PhD
+Jun-2024,SEO,Limited Offer,LOC-630,Python Programming,Intermediate,Intermediate,14.56,Failed,706.31,Team A,Melissa Bishop
+May-2024,Instagram,Cyber Monday,LOC-958,Python Programming,Advanced,Expert,13.32,Pending,565.78,Team A,Briana Prince
+Jan-2024,YouTube,Winter Discount,LOC-844,Machine Learning,Advanced,Intermediate,14.44,Paid,1396.45,Team C,Janet Morrow PhD
+Oct-2024,LinkedIn,Winter Discount,LOC-550,AI Fundamentals,Advanced,Intermediate,11.66,Failed,1677.69,Team D,Shawn Collins
+May-2024,SEO,Limited Offer,LOC-868,AI Fundamentals,Intermediate,Basic,7.05,Paid,1092.96,Team D,Michael Patel
+Jul-2024,Twitter,Cyber Monday,LOC-625,Python Programming,Beginner,Basic,8.23,Paid,1082.25,Team B,Melissa Bishop
+Dec-2024,Google Ads,Black Friday,LOC-673,Machine Learning,Advanced,Expert,4.33,Paid,1574.5,Team D,Melissa Bishop
+Dec-2024,Email Campaign,Back to School,LOC-275,Data Science,Advanced,Intermediate,12.73,Paid,547.86,Team B,Alexis Coleman
+Aug-2024,Facebook,Limited Offer,LOC-985,Machine Learning,Advanced,Intermediate,8.31,Paid,1870.2,Team B,Karen Jones
+Feb-2024,SEO,Spring Sale,LOC-607,AI Fundamentals,Advanced,Advanced,3.62,Paid,482.85,Team D,Jared Moreno
+Feb-2024,Google Ads,Back to School,LOC-774,Cloud Computing,Advanced,Intermediate,6.48,Pending,102.91,Team C,Angela Reyes
+Apr-2024,Instagram,Spring Sale,LOC-554,Cyber Security,Beginner,Intermediate,11.57,Failed,1850.3,Team D,Susan Thomas MD
+Oct-2024,Email Campaign,Flash Sale,LOC-901,Data Science,Advanced,Basic,7.71,Failed,1017.39,Team C,Diana Richardson
+Dec-2024,Instagram,Winter Discount,LOC-536,Data Science,Intermediate,Advanced,14.64,Pending,654.92,Team A,Shawn Collins
+Oct-2024,YouTube,Winter Discount,LOC-751,AI Fundamentals,Intermediate,Intermediate,6.23,Paid,1211.6,Team B,William Parker
+Nov-2024,Facebook,Cyber Monday,LOC-835,Data Science,Beginner,Basic,3.9,Pending,1517.67,Team D,Angela Reyes
+Feb-2024,Google Ads,Cyber Monday,LOC-709,AI Fundamentals,Advanced,Expert,3.73,Failed,1594.06,Team D,Megan Ramsey
+Oct-2024,Facebook,Limited Offer,LOC-963,Python Programming,Beginner,Expert,11.88,Pending,1880.95,Team C,Mrs. Gabrielle Larson
+Jun-2024,Facebook,Spring Sale,LOC-709,Cyber Security,Advanced,Intermediate,5.65,Pending,564.81,Team D,Jared Moreno
+Sep-2024,Twitter,Cyber Monday,LOC-822,AI Fundamentals,Intermediate,Basic,12.83,Paid,469.74,Team B,Phyllis Ruiz
+Dec-2024,Instagram,Back to School,LOC-394,Cloud Computing,Intermediate,Advanced,4.84,Pending,298.48,Team D,Gabrielle Walker
+Dec-2024,LinkedIn,Spring Sale,LOC-822,Data Science,Advanced,Basic,14.82,Failed,1755.09,Team B,Diana Richardson
+Feb-2024,Email Campaign,Flash Sale,LOC-394,Machine Learning,Beginner,Expert,7.73,Pending,113.33,Team B,Adam Montgomery
+Jan-2024,Twitter,Flash Sale,LOC-694,Cloud Computing,Beginner,Expert,13.68,Pending,469.11,Team A,Dawn Herrera
+Jan-2024,LinkedIn,Flash Sale,LOC-128,Machine Learning,Beginner,Expert,9.87,Pending,675.67,Team A,William Meadows
+Oct-2024,LinkedIn,Back to School,LOC-441,Data Science,Intermediate,Expert,14.9,Paid,800.87,Team D,Dawn Herrera
+Oct-2024,Email Campaign,Flash Sale,LOC-433,Cloud Computing,Beginner,Advanced,8.61,Pending,1518.42,Team B,Jared Moreno
+Apr-2024,SEO,Spring Sale,LOC-858,AI Fundamentals,Advanced,Expert,10.27,Pending,1078.61,Team C,Karen Jones
+Dec-2024,Google Ads,Cyber Monday,LOC-982,Cloud Computing,Intermediate,Advanced,4.95,Failed,1929.72,Team A,Melissa Bishop
+Oct-2024,Facebook,Limited Offer,LOC-536,Machine Learning,Beginner,Expert,14.48,Failed,397.91,Team C,Samantha Brown
+Apr-2024,Google Ads,Spring Sale,LOC-715,Python Programming,Beginner,Expert,11.06,Pending,430.71,Team A,Dawn Herrera
+Nov-2024,Twitter,Winter Discount,LOC-715,Python Programming,Advanced,Basic,7.12,Paid,858.45,Team C,Jonathan Gentry
+Sep-2024,Twitter,Cyber Monday,LOC-985,Cloud Computing,Beginner,Expert,13.76,Pending,1567.01,Team B,Gabrielle Walker
+Feb-2024,SEO,Flash Sale,LOC-889,Cyber Security,Intermediate,Intermediate,14.08,Failed,1697.68,Team D,Michelle Roach
+Mar-2024,LinkedIn,Flash Sale,LOC-536,AI Fundamentals,Beginner,Intermediate,5.2,Pending,172.1,Team D,Tyrone Taylor
+Jul-2024,SEO,Back to School,LOC-394,Python Programming,Beginner,Expert,11.95,Paid,1135.41,Team D,Gabrielle Castillo
+Apr-2024,YouTube,Spring Sale,LOC-507,Cyber Security,Beginner,Expert,7.25,Paid,1548.73,Team A,Gabrielle Walker
+Aug-2024,Twitter,Limited Offer,LOC-433,Cloud Computing,Advanced,Intermediate,11.47,Paid,1720.88,Team A,Judith Hartman
+Jul-2024,Google Ads,Black Friday,LOC-858,AI Fundamentals,Beginner,Intermediate,9.8,Pending,754.24,Team C,Gabrielle Walker
+Feb-2024,SEO,Limited Offer,LOC-230,Python Programming,Advanced,Basic,2.29,Failed,1496.26,Team C,Megan Ramsey
+Jul-2024,Email Campaign,Black Friday,LOC-963,Machine Learning,Intermediate,Expert,2.49,Failed,374.59,Team A,Karen Jones
+May-2024,Email Campaign,Limited Offer,LOC-536,AI Fundamentals,Intermediate,Advanced,7.27,Pending,1454.8,Team D,Karen Matthews
+Sep-2024,YouTube,Back to School,LOC-330,Cyber Security,Intermediate,Intermediate,2.71,Paid,398.49,Team A,Cody Kaiser
+Jul-2024,YouTube,Back to School,LOC-516,Machine Learning,Advanced,Intermediate,13.73,Failed,606.29,Team C,Susan Davis
+Apr-2024,Google Ads,Spring Sale,LOC-901,Cyber Security,Beginner,Basic,10.99,Paid,1523.76,Team B,James Martinez
+Jan-2024,YouTube,Flash Sale,LOC-806,Cyber Security,Advanced,Basic,7.51,Pending,411.0,Team D,James Martinez
+Dec-2024,LinkedIn,Back to School,LOC-958,Machine Learning,Beginner,Expert,6.97,Paid,611.11,Team D,Robert Martinez
+Aug-2024,Facebook,Flash Sale,LOC-433,Machine Learning,Advanced,Intermediate,7.76,Paid,1613.74,Team C,James Martinez
+Apr-2024,Instagram,Flash Sale,LOC-411,Data Science,Advanced,Intermediate,4.04,Pending,248.9,Team B,Susan Thomas MD
+Apr-2024,Facebook,Cyber Monday,LOC-277,Cloud Computing,Advanced,Intermediate,9.69,Paid,1914.95,Team A,William Meadows
+Sep-2024,LinkedIn,Cyber Monday,LOC-954,AI Fundamentals,Advanced,Advanced,9.34,Pending,528.27,Team D,Matthew Myers
+Jun-2024,Google Ads,Flash Sale,LOC-901,Cyber Security,Beginner,Advanced,12.95,Failed,493.68,Team B,Adam Montgomery
+Nov-2024,Facebook,Back to School,LOC-507,Cyber Security,Beginner,Advanced,7.34,Paid,1025.57,Team B,Holly Adams
+Feb-2024,SEO,Back to School,LOC-858,Data Science,Beginner,Expert,7.66,Failed,1039.48,Team A,Angela Reyes
+Nov-2024,Instagram,Limited Offer,LOC-868,Data Science,Advanced,Expert,4.3,Failed,1387.19,Team A,Jonathan Gentry
+Aug-2024,Email Campaign,Winter Discount,LOC-806,Data Science,Advanced,Advanced,13.57,Pending,1931.34,Team A,Holly Adams
+Jun-2024,YouTube,Spring Sale,LOC-954,Cloud Computing,Beginner,Intermediate,6.38,Failed,1194.39,Team B,Miss Marissa Buchanan
+Jan-2024,Twitter,Cyber Monday,LOC-901,Python Programming,Beginner,Advanced,14.98,Pending,1036.77,Team D,Diana Richardson
+Nov-2024,Instagram,Cyber Monday,LOC-277,AI Fundamentals,Intermediate,Expert,9.77,Failed,602.02,Team D,Jonathan Gentry
+Aug-2024,Email Campaign,Limited Offer,LOC-554,AI Fundamentals,Advanced,Expert,7.4,Failed,1803.16,Team D,Holly Adams
+May-2024,LinkedIn,Flash Sale,LOC-774,Cloud Computing,Beginner,Advanced,13.55,Paid,1063.38,Team C,Miss Marissa Buchanan
+Jul-2024,Instagram,Back to School,LOC-822,AI Fundamentals,Beginner,Advanced,3.78,Failed,637.48,Team A,Elizabeth Frazier
+Jan-2024,Twitter,Back to School,LOC-433,Machine Learning,Advanced,Expert,5.76,Failed,804.79,Team C,Stephanie Malone
+May-2024,Twitter,Flash Sale,LOC-507,Data Science,Beginner,Advanced,12.87,Failed,1645.62,Team A,William Parker
+Apr-2024,Email Campaign,Black Friday,LOC-607,Cyber Security,Beginner,Expert,12.7,Pending,997.65,Team C,William Meadows
+Nov-2024,Google Ads,Limited Offer,LOC-985,AI Fundamentals,Intermediate,Basic,9.9,Paid,1462.58,Team D,Diana Richardson
+May-2024,Facebook,Spring Sale,LOC-982,AI Fundamentals,Beginner,Advanced,14.29,Pending,324.97,Team B,Cody Kaiser
+Mar-2024,LinkedIn,Winter Discount,LOC-516,Machine Learning,Intermediate,Expert,13.52,Pending,524.05,Team A,Michelle Roach
+May-2024,YouTube,Winter Discount,LOC-774,Data Science,Beginner,Expert,7.57,Failed,1884.24,Team B,Jonathon Edwards
+Oct-2024,Facebook,Winter Discount,LOC-797,Python Programming,Advanced,Advanced,3.02,Paid,1104.99,Team C,April Barrett
+Feb-2024,YouTube,Back to School,LOC-128,Python Programming,Intermediate,Expert,2.09,Paid,267.99,Team A,Karen Matthews
+Dec-2024,YouTube,Spring Sale,LOC-569,AI Fundamentals,Advanced,Advanced,4.46,Pending,1233.19,Team A,Angela Joseph
+Apr-2024,Google Ads,Limited Offer,LOC-710,Machine Learning,Beginner,Intermediate,3.39,Pending,680.19,Team A,Tyrone Taylor
+May-2024,SEO,Cyber Monday,LOC-394,Cloud Computing,Intermediate,Basic,9.35,Failed,1132.44,Team C,Stephanie Malone
+Oct-2024,Instagram,Limited Offer,LOC-858,Cloud Computing,Advanced,Basic,10.03,Paid,682.26,Team C,Douglas Johnston
+Feb-2024,SEO,Flash Sale,LOC-625,AI Fundamentals,Advanced,Expert,8.55,Paid,1866.8,Team B,Samantha Brown
+Jun-2024,LinkedIn,Black Friday,LOC-569,AI Fundamentals,Advanced,Intermediate,2.7,Pending,1230.85,Team C,Michael Patel
+Apr-2024,Instagram,Black Friday,LOC-394,Cyber Security,Beginner,Intermediate,4.14,Pending,137.7,Team A,Karen Jones
+Aug-2024,Instagram,Black Friday,LOC-751,Cloud Computing,Advanced,Expert,14.44,Paid,631.39,Team D,Phyllis Ruiz
+Apr-2024,LinkedIn,Back to School,LOC-296,AI Fundamentals,Advanced,Advanced,3.42,Failed,1031.21,Team B,Michelle Davila
+Oct-2024,LinkedIn,Spring Sale,LOC-630,Cyber Security,Advanced,Basic,3.69,Paid,1851.93,Team D,Stephanie Malone
+Jul-2024,Email Campaign,Limited Offer,LOC-875,Cloud Computing,Intermediate,Advanced,10.91,Pending,1550.99,Team A,Melissa Bishop
+Mar-2024,Google Ads,Limited Offer,LOC-394,AI Fundamentals,Intermediate,Advanced,4.13,Paid,713.75,Team A,Karen Jones
+Jun-2024,Instagram,Cyber Monday,LOC-715,Cloud Computing,Beginner,Advanced,11.35,Paid,1876.06,Team D,Miss Marissa Buchanan
+Jul-2024,Facebook,Cyber Monday,LOC-441,Data Science,Advanced,Intermediate,14.49,Pending,184.45,Team D,Elizabeth Frazier
+Feb-2024,LinkedIn,Spring Sale,LOC-554,Cloud Computing,Advanced,Intermediate,10.94,Pending,1002.3,Team D,Judith Hartman
+Jun-2024,Facebook,Limited Offer,LOC-394,Machine Learning,Intermediate,Intermediate,12.47,Pending,1567.29,Team A,Cody Kaiser
+Dec-2024,SEO,Flash Sale,LOC-673,Cyber Security,Advanced,Intermediate,3.27,Pending,880.74,Team A,Stephanie Malone
+Oct-2024,Email Campaign,Black Friday,LOC-844,Python Programming,Beginner,Intermediate,6.28,Pending,683.96,Team B,Phyllis Ruiz

@@ -1,0 +1,15 @@
+Unicode icons to use in the project :
+💰 – (Money bag)
+💵 – (Dollar bills)
+💴 💶 💷 – (Yen, Euro, Pound notes)
+🪙 – (Coin)
+💳 – (Credit card)
+
+Unicode Course & Learning Symbols
+📚 – (Books, education)
+🎓 – (Graduation cap, learning)
+📝 – (Notebook, assignments)
+💻 – (Online learning)
+📖 – (Open book, reading)
+🏫 – (School, institution)
+🧑‍🏫 – (Teacher, instructor)
