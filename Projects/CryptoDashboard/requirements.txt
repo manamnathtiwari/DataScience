@@ -1,9 +1,0 @@
-streamlit
-pyspark
-redis
-requests
-pandas
-matplotlib
-plotly
-openai  # for Gemini API (if accessed via OpenAI style)
-python-dotenv

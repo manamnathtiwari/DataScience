@@ -1,110 +1,54 @@
-import streamlit as st
-from pyspark.sql import SparkSession
-from pyspark.ml.recommendation import ALS
-from pyspark.ml.feature import StringIndexer
-from pyspark.sql import Row
-import pandas as pd
-import atexit
+import pickle
+import streamlit as st 
+import numpy as np
 
-st.header("Book Recommender System using PySpark")
+st.header("Book Recommender System using Machine Learning")
 
-# Initialize Spark with optimized config
-spark = SparkSession.builder \
-    .appName("BookRecommender") \
-    .config("spark.executor.memory", "8g") \
-    .config("spark.driver.memory", "8g") \
-    .config("spark.sql.shuffle.partitions", "100") \
-    .getOrCreate()
+# Load model and data
+model = pickle.load(open(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Recommender System\Projects\Book Recommender System\artificats\model.pkl','rb'))
+book_pivot = pickle.load(open(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Recommender System\Projects\Book Recommender System\artificats\book_pivot.pkl','rb'))
+books_name = pickle.load(open(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Recommender System\Projects\Book Recommender System\artificats\books_name.pkl','rb'))
+final_rating = pickle.load(open(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Recommender System\Projects\Book Recommender System\artificats\final_rating.pkl','rb'))
 
-# Load data
-rating_df = spark.read.parquet(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Projects\Book Recommender System\artificats\final_rating.parquet')
-book_df = spark.read.parquet(r'C:\Users\Manamnath tiwari\OneDrive\Desktop\DataScience\Projects\Book Recommender System\artificats\books_name.parquet')
+def fetch_poster(suggestion):
+    book_names = []
+    ids_index = []
+    poster_urls = []
+    
+    for book_id in suggestion[0]:  # Ensure correct iteration
+        book_names.append(book_pivot.index[book_id])  # Fixed indexing
 
-# Prepare indexers
-book_indexer = StringIndexer(inputCol="title", outputCol="bookIndex").fit(rating_df)
-user_indexer = StringIndexer(inputCol="user_id", outputCol="userIndex").fit(rating_df)
+    for name in book_names:
+        ids = np.where(final_rating['title'] == name)[0]
+        if len(ids) > 0:
+            ids_index.append(ids[0])  # Ensure valid index
+    
+    for ids in ids_index:
+        poster_urls.append(final_rating.iloc[ids]['img_url'])  # Append URL
+    
+    return poster_urls  # Return list of poster URLs
 
-# Transform data
-rating_indexed = book_indexer.transform(rating_df)
-rating_indexed = user_indexer.transform(rating_indexed)
+def recommended_books(book_name):
+    book_list = []
+    book_id = np.where(book_pivot.index == book_name)[0][0]  # Use book_name, not books_name
+    distance, suggestion = model.kneighbors(book_pivot.iloc[book_id, :].values.reshape(1, -1), n_neighbors=6)
+    
+    poster_urls = fetch_poster(suggestion)
 
-# Cache the data for better performance
-rating_indexed.cache()
+    for i in suggestion[0]:  # Ensure correct indexing
+        book_list.append(book_pivot.index[i])  # Fixed indexing
+    
+    return book_list, poster_urls  # Return results properly
 
-# Train ALS model with better parameters
-als = ALS(
-    userCol="userIndex",
-    itemCol="bookIndex",
-    ratingCol="rating",
-    coldStartStrategy="drop",
-    nonnegative=True,
-    rank=10,
-    maxIter=15,
-    regParam=0.1
-)
-model = als.fit(rating_indexed)
-
-# Create lookup dictionaries
-book_lookup = rating_indexed.select("bookIndex", "title").distinct().toPandas().set_index("bookIndex")["title"].to_dict()
-title_to_index = rating_indexed.select("title", "bookIndex").distinct().toPandas().set_index("title")["bookIndex"].to_dict()
-img_lookup = book_df.select("title", "img_url").toPandas().set_index("title")["img_url"].to_dict()
-
-# Get unique books for dropdown
-unique_books = sorted(list(title_to_index.keys()))
-
-def recommend_books(book_title, n=6):
-    try:
-        if book_title not in title_to_index:
-            return [], []
-            
-        book_idx = title_to_index[book_title]
-        
-        # Create a dummy user with the selected book
-        dummy_user = spark.createDataFrame([Row(userIndex=0, bookIndex=book_idx)])
-        
-        # Get recommendations (excluding the queried book)
-        recs = model.recommendForUserSubset(dummy_user, n+1).collect()
-        
-        if not recs:
-            return [], []
-            
-        recommended_books = []
-        for r in recs[0].recommendations:
-            book = book_lookup.get(r.bookIndex)
-            if book and book != book_title:  # Skip the queried book
-                recommended_books.append(book)
-        
-        poster_urls = [img_lookup.get(b, "https://via.placeholder.com/150") for b in recommended_books]
-        return recommended_books[:n], poster_urls[:n]
-        
-    except Exception as e:
-        st.error(f"Recommendation error: {str(e)}")
-        return [], []
-
-# UI Implementation
-selected_book = st.selectbox("Type or Select a book", unique_books)
+selected_books = st.selectbox("Type or Select a book", books_name)
 
 if st.button('Show Recommendation'):
-    books, posters = recommend_books(selected_book)
+    recommendation_books, poster_urls = recommended_books(selected_books)
     
-    if not books:
-        st.warning("Showing random books as fallback")
-        # Get random books from Spark
-        random_books = book_df.select("title").sample(fraction=0.2, seed=42).limit(5).toPandas()["title"].tolist()
-        books = random_books
-        posters = [img_lookup.get(b, "https://via.placeholder.com/150") for b in books]
+    col_list = st.columns(5)
     
-    # Display results
-    cols = st.columns(5)
-    for i, (book, poster) in enumerate(zip(books, posters)):
-        with cols[i % 5]:
-            st.text(book)
-            st.image(poster, width=150)
-
-# Cleanup
-@atexit.register
-def shutdown():
-    try:
-        spark.stop()
-    except:
-        pass
+    for i, col in enumerate(col_list):
+        if i < len(recommendation_books):
+            with col:
+                st.text(recommendation_books[i])
+                st.image(poster_urls[i])
