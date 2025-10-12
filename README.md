@@ -13,5 +13,5 @@ Contents present in this repository
 2. Projects
       1. Book Recommender System : A basic Book Recommender System done to learn about the recommender system. Its a beginner friendly do check it out .
       2. Power BI Projects : These projects are done to learn visualization using Power BI.
-      3. Swarm Bots : This project is done to visualize the behaviour of bots when there number exceeds this was part of my Robotics class.
+      3. Swarm Bots : This project is done to visualize the behaviour of bots when there number exceeds this was part of my Robotics clas.
    `
